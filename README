@@ -1,0 +1,6 @@
+# Jogo da Velha
+
+Jogo da velha desenvolvido em Python para dois jogadores, executado no terminal.
+Os jogadores alternam entre X e O, escolhendo posições de 1 a 9. Não é permitido escolher uma posição ocupada.
+O objetivo é alinhar três símbolos na horizontal, vertical ou diagonal. O jogo termina quando um jogador vence ou quando todas as posições são preenchidas sem um vencedor.
+Para executar o jogo, guarde o código no ficheiro `jogo_da_velha.py` e execute o comando `python jogo_da_velha.py` no terminal.
